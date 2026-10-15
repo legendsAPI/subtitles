@@ -1,0 +1,2017 @@
+1
+00:00:04,300 --> 00:00:07,388
+Um, dois, tr�s, quatro,
+
+2
+00:00:07,429 --> 00:00:09,474
+cinco, seis, sete...
+
+3
+00:00:09,558 --> 00:00:10,767
+O que voc� est� fazendo?
+
+4
+00:00:10,767 --> 00:00:11,603
+Mastigando.
+
+5
+00:00:14,230 --> 00:00:15,023
+O qu�?
+
+6
+00:00:15,232 --> 00:00:17,652
+N�o se preocupe,
+n�o � o que voc� est� pensando.
+
+7
+00:00:17,652 --> 00:00:18,903
+O que voc� acha que estou pensando?
+
+8
+00:00:18,903 --> 00:00:19,778
+Voc� sabe...
+
+9
+00:00:21,825 --> 00:00:23,702
+Ok, eu sei o que eu sei.
+
+10
+00:00:24,494 --> 00:00:25,746
+O que voc� sabe?
+
+11
+00:00:26,080 --> 00:00:30,211
+Eu sei que voc� deve mastigar
+sua comida 20 vezes antes de engolir.
+
+12
+00:00:30,211 --> 00:00:32,588
+Sim, mas e sobre a
+outra coisa?
+
+13
+00:00:32,588 --> 00:00:33,841
+Que outra coisa?
+
+14
+00:00:35,050 --> 00:00:37,637
+A coisa que voc� pensou
+que eu estava pensando.
+
+15
+00:00:37,637 --> 00:00:39,724
+Sinto muito, Pai.
+Voc� me confundiu.
+
+16
+00:00:42,061 --> 00:00:42,937
+Bom dia.
+
+17
+00:00:43,729 --> 00:00:44,898
+Esse n�o � seu dia de folga?
+
+18
+00:00:45,147 --> 00:00:47,025
+� sim, mas preciso
+falar com Charlie.
+
+19
+00:00:47,234 --> 00:00:48,195
+Bem, boa sorte.
+
+20
+00:00:48,195 --> 00:00:51,740
+Ele chegou h� uma hora, comeu chili,
+vomitou e foi pra cama.
+
+21
+00:00:51,740 --> 00:00:54,745
+Ele deve ter vomitado porque
+n�o mastigou o suficiente.
+
+22
+00:00:57,164 --> 00:01:00,044
+Ei boc�o,
+tem uma senhora presente.
+
+23
+00:01:00,086 --> 00:01:01,629
+Berta, porque voc� n�o me diz
+o que voc� precisa,
+
+24
+00:01:01,629 --> 00:01:06,469
+assim voc� pode aproveitar sua folga
+espalhando alegria para os outros.
+
+25
+00:01:06,469 --> 00:01:09,098
+� sobre a casa.
+Eu preciso esperar o Charlie.
+
+26
+00:01:09,098 --> 00:01:11,267
+Eu tamb�m moro aqui.
+Qual o problema?
+
+27
+00:01:12,394 --> 00:01:13,187
+Eu espero.
+
+28
+00:01:14,271 --> 00:01:17,192
+Oh, pelo amor de Deus, pense que
+eu sou o Charlie. Fale comigo.
+
+29
+00:01:20,072 --> 00:01:21,657
+Ei, Charlie.
+Eu pensei melhor,
+
+30
+00:01:21,657 --> 00:01:25,120
+e se voc� quiser que eu mate seu irm�o,
+quero a grana adiantada.
+
+31
+00:01:28,499 --> 00:01:29,416
+Muito engra�ado.
+
+32
+00:01:29,416 --> 00:01:32,380
+Obrigado.
+Estou fazendo aulas.
+
+33
+00:01:32,380 --> 00:01:34,048
+Ok, � o seguinte:
+
+34
+00:01:34,215 --> 00:01:36,426
+Tenho cinco irm�os e irm�s.
+
+35
+00:01:36,426 --> 00:01:41,851
+Sou a filha do meio, o que provavelmente
+explica o fato que sou um doce.
+
+36
+00:01:42,560 --> 00:01:45,900
+De qualquer maneira, meu irm�o Philip,
+ele � o segundo mais velho
+
+37
+00:01:45,900 --> 00:01:48,235
+ele trabalha no ramo
+de fogos de artif�cio,
+
+38
+00:01:48,235 --> 00:01:51,114
+e como voc� deve saber,
+� meio sazonal.
+
+39
+00:01:51,992 --> 00:01:54,536
+E isso cria muita incerteza econ�mica,
+
+40
+00:01:54,536 --> 00:01:56,246
+o que atrapalhou seu casamento.
+
+41
+00:01:56,246 --> 00:01:59,959
+Talvez n�o tanto quanto ele dando uns
+ama�os com a meia irm� da mulher dele...
+
+42
+00:01:59,959 --> 00:02:02,087
+mas isso � o efeito bola de neve.
+
+43
+00:02:02,629 --> 00:02:04,926
+De qualquer maneira, para
+encurtar a hist�ria...
+
+44
+00:02:04,926 --> 00:02:05,926
+Tarde demais.
+
+45
+00:02:07,262 --> 00:02:08,178
+� justo.
+
+46
+00:02:08,388 --> 00:02:10,933
+Berta: 1;
+Zippy: 1.
+
+47
+00:02:11,559 --> 00:02:14,563
+De qualquer maneira, Philip n�o pode
+morar em sua casa pois,
+
+48
+00:02:14,563 --> 00:02:16,858
+tecnicamente, � uma cena do crime.
+
+49
+00:02:17,568 --> 00:02:20,363
+Por isso eu queria pedir ao Charlie...
+
+50
+00:02:20,363 --> 00:02:22,197
+Voc�, hum, quer que seu irm�o
+fique aqui?
+
+51
+00:02:22,197 --> 00:02:23,701
+Oh, n�o seja est�pido.
+
+52
+00:02:23,992 --> 00:02:25,370
+Ele est� na minha casa tentando
+
+53
+00:02:25,370 --> 00:02:28,876
+se redimir.
+
+54
+00:02:28,876 --> 00:02:31,962
+Eu quero ficar aqui
+alguns dias.
+
+55
+00:02:34,173 --> 00:02:35,884
+Tudo bem.
+Vou perguntar ao Charlie.
+
+56
+00:02:35,884 --> 00:02:40,390
+Voc� n�o precisa perguntar pro Charlie.
+Voc� pode me perguntar.
+
+57
+00:02:40,473 --> 00:02:41,475
+Tudo bem.
+
+58
+00:02:44,063 --> 00:02:45,940
+Ah, voc� quer
+uma resposta agora.
+
+59
+00:02:45,940 --> 00:02:47,941
+Isso seria bom.
+
+60
+00:02:47,984 --> 00:02:51,614
+Eu diria...
+
+61
+00:02:51,781 --> 00:02:54,325
+ap�s considerar...
+
+62
+00:02:54,452 --> 00:02:57,247
+e levar em considera��o todo...
+
+63
+00:02:57,247 --> 00:03:00,835
+fatores que est�o envolvidos nisso..
+
+64
+00:03:02,587 --> 00:03:05,300
+Seria um prazer
+ter voc� conosco.
+
+65
+00:03:05,674 --> 00:03:08,554
+Legal. Voc� se importa
+se eu ficar com o seu quarto?
+
+66
+00:03:08,971 --> 00:03:10,306
+Meu quarto?
+Bem, Eu-eu..
+
+67
+00:03:10,306 --> 00:03:14,646
+Confie em mim. Voc� vai querer que eu
+fique com um banheiro exclusivo.
+
+68
+00:03:17,775 --> 00:03:19,526
+Ok. Fa�o quest�o.
+
+69
+00:03:19,735 --> 00:03:21,071
+Fique com meu quarto.
+Vou ficar com o Jake.
+
+70
+00:03:21,071 --> 00:03:21,864
+Obrigado.
+
+71
+00:03:22,949 --> 00:03:25,368
+O que voc� quer dizer,
+com ficar com o Jake?
+
+72
+00:03:25,368 --> 00:03:26,204
+Isso � um problema?
+
+73
+00:03:26,204 --> 00:03:27,872
+Sim. Preciso de privacidade.
+
+74
+00:03:28,081 --> 00:03:28,875
+Pra que?
+
+75
+00:03:29,124 --> 00:03:30,377
+Voc� sabe...
+
+76
+00:03:53,939 --> 00:03:55,399
+Nunca mais.
+
+77
+00:03:57,945 --> 00:04:00,616
+Nunca, nunca, nunca mais.
+
+78
+00:04:01,575 --> 00:04:03,077
+Voc� vai parar de beber?
+
+79
+00:04:03,077 --> 00:04:04,538
+N�o seja rid�cula.
+
+80
+00:04:06,332 --> 00:04:08,209
+Vou desistir de acordar cedo.
+
+81
+00:04:10,630 --> 00:04:12,423
+O que voc� est� fazendo aqui?
+N�o � sua folga?
+
+82
+00:04:12,423 --> 00:04:18,056
+�, mas seu irm�o me convidou
+como sua h�spede por uns dias.
+
+83
+00:04:20,560 --> 00:04:21,436
+Ele fez isso?
+
+84
+00:04:21,812 --> 00:04:25,900
+Bem, eu ia perguntar a voc�, mas o Alan
+disse que respondia por voc�s dois.
+
+85
+00:04:25,900 --> 00:04:26,777
+Ele disse?
+
+86
+00:04:27,903 --> 00:04:29,279
+Algum problema nisso?
+
+87
+00:04:29,279 --> 00:04:31,241
+N�o seja boba.
+Voc� � da fam�lia.
+
+88
+00:04:31,241 --> 00:04:34,412
+�, bem, eu vejo como
+voc� trata sua fam�lia.
+
+89
+00:04:34,705 --> 00:04:38,000
+Ei, voc� � sempre bem vinda aqui.
+Nem precisa perguntar.
+
+90
+00:04:39,961 --> 00:04:40,963
+Bom dia Alan.
+
+91
+00:04:41,297 --> 00:04:43,049
+Veja quem finalmente...
+
+92
+00:04:44,718 --> 00:04:46,554
+Berta?
+Morando aqui?
+
+93
+00:04:46,595 --> 00:04:47,722
+Voc� est� louco?
+
+94
+00:04:47,890 --> 00:04:49,640
+Ela precisava de um lugar para
+ficar por uns dias.
+
+95
+00:04:49,640 --> 00:04:50,559
+O que voc� faria?
+
+96
+00:04:50,559 --> 00:04:53,272
+Eu sentaria com ela e
+explicaria que acredito
+
+97
+00:04:53,272 --> 00:04:56,276
+que existem limites entre
+patr�o e empregado
+
+98
+00:04:56,276 --> 00:04:59,655
+que existem exatamente
+para proteger o patr�o
+
+99
+00:04:59,739 --> 00:05:01,908
+de acidentalmente
+ver a empregada
+
+100
+00:05:01,908 --> 00:05:05,330
+rodando por ai com sua
+grandes cal�as.
+
+101
+00:05:05,747 --> 00:05:07,833
+T� bom.
+V� dizer isso a ela.
+
+102
+00:05:09,001 --> 00:05:10,503
+OK, eu estava blefando.
+
+103
+00:05:11,755 --> 00:05:13,633
+Veja, veja,
+� s� por uns dias.
+
+104
+00:05:13,633 --> 00:05:14,718
+N�s podemos dar um jeito.
+
+105
+00:05:14,718 --> 00:05:16,553
+�, mas n�o precisar�amos
+dar um jeito
+
+106
+00:05:16,553 --> 00:05:18,306
+se voc� n�o tivesse
+convidado algu�m
+
+107
+00:05:18,306 --> 00:05:20,143
+para ficar em minha casa
+sem minha permiss�o.
+
+108
+00:05:20,143 --> 00:05:21,852
+Ei, ei, eu tamb�m moro aqui.
+
+109
+00:05:21,852 --> 00:05:22,936
+Assim como os cupins!
+
+110
+00:05:24,606 --> 00:05:27,736
+Mas eles tamb�m n�o podem
+convidar ningu�m.
+
+111
+00:05:27,736 --> 00:05:29,362
+Voc� est� me comparando
+a cupins?
+
+112
+00:05:29,362 --> 00:05:32,451
+Claro que n�o! Voc� consegue
+se livrar dos cupins!
+
+113
+00:05:34,411 --> 00:05:37,583
+Sabe, se eu achasse que voc� diria
+mesmo isso, eu ficaria magoado.
+
+114
+00:05:37,583 --> 00:05:39,294
+Eu fui muito sutil?
+
+115
+00:05:39,294 --> 00:05:41,254
+OK, deixe-me tentar novamente.
+
+116
+00:05:41,254 --> 00:05:44,258
+Sabe porque nunca aceitei
+dinheiro pra voc� ficar aqui?
+
+117
+00:05:44,258 --> 00:05:46,970
+Bem, achei que voc� estava
+sendo generoso
+
+118
+00:05:46,970 --> 00:05:48,847
+enquanto passo por um per�odo
+de dificuldade em minha vida.
+
+119
+00:05:51,936 --> 00:05:54,355
+Assim voc� pode ficar aqui
+o Jake pode ficar aqui
+
+120
+00:05:54,355 --> 00:05:56,943
+mas continua minha casa,
+n�o nossa casa.
+
+121
+00:05:56,943 --> 00:05:57,819
+Qual a diferen�a?
+
+122
+00:05:57,819 --> 00:06:01,824
+Na minha casa, o que voc� pensa,
+o que voc� quer e diz
+
+123
+00:06:01,824 --> 00:06:03,243
+n�o significam nada.
+
+124
+00:06:04,828 --> 00:06:06,580
+� s� bl� bl� bl�.
+
+125
+00:06:07,666 --> 00:06:10,503
+Ent�o... voc� est� dizendo
+que n�o tenho direitos aqui?
+
+126
+00:06:10,503 --> 00:06:12,629
+Achei que tinha
+ficado claro.
+
+127
+00:06:13,257 --> 00:06:15,217
+N�o acredito que estamos
+conversando sobre isso.
+
+128
+00:06:15,217 --> 00:06:15,802
+Inacredit�vel!
+
+129
+00:06:15,844 --> 00:06:17,012
+Estou aqui h� dois anos,
+
+130
+00:06:17,054 --> 00:06:18,389
+e voc� ainda acha que
+sou um h�spede.
+
+131
+00:06:18,389 --> 00:06:18,764
+N�o.
+
+132
+00:06:18,806 --> 00:06:22,145
+Minhas convidadas trazem
+vinho e fazem sexo comigo.
+
+133
+00:06:24,355 --> 00:06:25,439
+Oh, sinto muito.
+
+134
+00:06:25,439 --> 00:06:29,154
+Vou buscar um chardonnay
+e ficar em posi��o.
+
+135
+00:06:30,947 --> 00:06:35,745
+Ei, n�o deixe sua boca fazer cheques
+que sua bunda n�o podem assinar.
+
+136
+00:06:40,334 --> 00:06:41,254
+Bobalh�o.
+
+137
+00:06:42,338 --> 00:06:44,758
+N�o sei como voc� aceita isso.
+
+138
+00:06:45,718 --> 00:06:46,469
+Voc� ouviu?
+
+139
+00:06:47,218 --> 00:06:48,263
+N�s est�vamos sussurrando.
+
+140
+00:06:48,263 --> 00:06:51,182
+Deve ser uma anomalia ac�stica.
+
+141
+00:06:52,145 --> 00:06:54,440
+Eu acho que � um crime a maneira
+como o Charlie te trata.
+
+142
+00:06:54,440 --> 00:06:56,816
+Tipo como um cidad�o de
+segunda classe.
+
+143
+00:06:56,816 --> 00:06:57,735
+Segunda classe?
+
+144
+00:06:58,485 --> 00:07:00,320
+Sou um aspirante a segunda classe.
+
+145
+00:07:00,947 --> 00:07:02,783
+Voc� sabe qual � a ordem nessa casa?
+
+146
+00:07:02,783 --> 00:07:04,870
+Charlie, mulheres com
+quem Charlie dorme,
+
+147
+00:07:04,870 --> 00:07:08,124
+A agenda do Charlie,
+mulheres com quem Charlie espera dormir,
+
+148
+00:07:08,124 --> 00:07:09,085
+cupins,
+
+149
+00:07:09,251 --> 00:07:10,460
+e eu.
+
+150
+00:07:11,628 --> 00:07:13,130
+Bem, isso n�o est� certo.
+
+151
+00:07:13,130 --> 00:07:14,340
+�, mas o que eu devo fazer?
+
+152
+00:07:14,383 --> 00:07:16,634
+Eu n�o posso
+bancar uma casa.
+
+153
+00:07:16,634 --> 00:07:20,099
+Quer dizer, eu posso, mas com certeza
+n�o uma na praia...
+
+154
+00:07:20,099 --> 00:07:22,435
+a menos que a praia
+fosse Guadalcanal.
+
+155
+00:07:22,978 --> 00:07:27,526
+� uma vergonha voc� pagar tanto dinheiro
+para sua ex e a casa dela,
+
+156
+00:07:27,526 --> 00:07:29,735
+e voc� n�o poder ir l�.
+
+157
+00:07:29,735 --> 00:07:30,822
+Exatamente.
+
+158
+00:07:35,870 --> 00:07:36,996
+Sou uma v�tima.
+
+159
+00:07:36,996 --> 00:07:40,335
+Ah sim! Voc� tem "v�tima" escrita
+por todo o corpo.
+
+160
+00:07:40,335 --> 00:07:42,047
+Mas o meu irm�o entende?
+
+161
+00:07:42,088 --> 00:07:45,132
+Os padres cat�licos s�o
+boas bab�s?
+
+162
+00:07:47,887 --> 00:07:51,599
+Escute, se voc� quer direitos
+e privil�gios, exiga-os.
+
+163
+00:07:51,642 --> 00:07:54,105
+Enfrente o Charlie.
+Seja dur�o.
+
+164
+00:07:54,105 --> 00:07:55,146
+Quer saber?
+
+165
+00:07:55,522 --> 00:07:57,107
+Voc� est� certa.
+E a partir de agora.
+
+166
+00:07:57,107 --> 00:07:58,485
+V� peg�-lo tigr�o.
+
+167
+00:08:00,697 --> 00:08:02,032
+Venha aqui, Charlie.
+
+168
+00:08:02,157 --> 00:08:03,074
+Eu quero...
+
+169
+00:08:12,714 --> 00:08:15,133
+Ah isso est� muito errado!
+
+170
+00:08:18,763 --> 00:08:19,513
+Ei.
+
+171
+00:08:19,555 --> 00:08:23,727
+Ei. Sabe Charlie, voc� tem
+uma bela vista aqui.
+
+172
+00:08:23,727 --> 00:08:25,440
+Voc� notou isso agora?
+
+173
+00:08:25,440 --> 00:08:28,275
+Bem, normalmente passo meus
+dias vendo privadas sujas
+
+174
+00:08:28,275 --> 00:08:31,156
+e os testes de Rorschach que
+voc� chama de len�ol.
+
+175
+00:08:32,364 --> 00:08:34,868
+Bem, � bom saber que voc� tem a chance
+de sentir o cheiro das rosas.
+
+176
+00:08:34,868 --> 00:08:38,039
+Ah, n�o comece com
+os cheiros daqui.
+
+177
+00:08:38,039 --> 00:08:40,043
+Hey, escute, Berta,
+voc� sabe,
+
+178
+00:08:40,043 --> 00:08:41,962
+voc� sabe o que sinto
+com rela��o a voc�, certo?
+
+179
+00:08:41,962 --> 00:08:43,589
+N�o, me diga.
+
+180
+00:08:44,422 --> 00:08:47,092
+Oh, bem, eu nunca
+conseguiria dizer.
+
+181
+00:08:47,092 --> 00:08:48,179
+Bem...
+
+182
+00:08:48,971 --> 00:08:49,931
+ent�o me mostra.
+
+183
+00:08:53,269 --> 00:08:55,771
+Relaxa, s� to
+te zuando.
+
+184
+00:08:57,150 --> 00:08:58,150
+Boa.
+
+185
+00:09:00,237 --> 00:09:01,780
+Bem, �...
+
+186
+00:09:03,075 --> 00:09:08,414
+Eu acho que existam limites
+entre patr�o e empregado...
+
+187
+00:09:08,539 --> 00:09:10,292
+por isso eu acho que seria
+melhor se voc� achasse...
+
+188
+00:09:10,292 --> 00:09:13,171
+Bem eu concordo com voc�
+sobre os limites...
+
+189
+00:09:13,171 --> 00:09:14,924
+� por isso que nunca
+falei nada sobre
+
+190
+00:09:14,924 --> 00:09:17,678
+as coisas que seu irm�o diz
+pelas suas costas.
+
+191
+00:09:17,678 --> 00:09:18,639
+O que ele diz?
+
+192
+00:09:18,639 --> 00:09:20,222
+Ah, eu n�o quero
+causar problemas.
+
+193
+00:09:20,222 --> 00:09:22,393
+N�o, n�o, n�o, vamos l�, diga.
+
+194
+00:09:23,060 --> 00:09:27,775
+Digamos que ele nem sempre aprecie
+as coisas que voc� faz por ele.
+
+195
+00:09:27,775 --> 00:09:29,527
+Sabe qual � o problema?
+
+196
+00:09:29,527 --> 00:09:30,821
+Eu sou muito mole.
+
+197
+00:09:30,821 --> 00:09:32,030
+Voc� tem um grande cora��o,
+
+198
+00:09:32,030 --> 00:09:36,494
+e sempre tem pessoas que
+querem tirar vantagem disso.
+
+199
+00:09:36,494 --> 00:09:38,288
+Voc� s� n�o imaginaria que
+seria seu pr�prio irm�o.
+
+200
+00:09:38,288 --> 00:09:40,458
+�, essa � a parte triste
+
+201
+00:09:41,670 --> 00:09:43,547
+Mas o que eu posso fazer?
+
+202
+00:09:43,547 --> 00:09:46,301
+Respeito n�o sai de gra�a
+nesse vida, Charlie.
+
+203
+00:09:46,301 --> 00:09:48,304
+Voc� tem que exigir.
+
+204
+00:09:48,345 --> 00:09:50,390
+Voc� est� certa. � hora de
+me defender.
+
+205
+00:09:50,390 --> 00:09:51,347
+Bom pra voc�.
+
+206
+00:09:53,642 --> 00:09:55,186
+E j� que est� de p�,
+
+207
+00:09:55,397 --> 00:09:56,856
+voc� me traria
+uma daquelas
+
+208
+00:09:56,856 --> 00:09:58,986
+cervejas japonesas que
+voc� tem na geladeira?
+
+209
+00:09:58,986 --> 00:10:00,235
+Oh, claro.
+J� volto.
+
+210
+00:10:00,235 --> 00:10:01,113
+Obrigado.
+
+211
+00:10:03,740 --> 00:10:06,746
+Eu sou muito malvada.
+
+212
+00:10:12,212 --> 00:10:14,840
+Voc� sabia que
+seu corpo n�o digere milho?
+
+213
+00:10:14,840 --> 00:10:17,594
+Ele sai do mesmo jeito
+que entrou.
+
+214
+00:10:19,053 --> 00:10:22,100
+� como uma marquinha
+no seu coc�.
+
+215
+00:10:24,436 --> 00:10:26,189
+Eles te ensinam isso
+na escola?
+
+216
+00:10:26,189 --> 00:10:28,860
+N�o. S�o os poderes
+da observa��o.
+
+217
+00:10:29,526 --> 00:10:29,901
+Jake,
+
+218
+00:10:30,110 --> 00:10:31,569
+isso n�o � conversa para o jantar.
+
+219
+00:10:31,569 --> 00:10:32,238
+Voc� est� certo.
+
+220
+00:10:32,238 --> 00:10:34,366
+� conversa de jantar milho.
+
+221
+00:10:34,491 --> 00:10:37,245
+Isso � o que acontece
+quando voc� n�o bate nos filhos.
+
+222
+00:10:37,747 --> 00:10:39,624
+Ei, tem alguma coisa cheirando bem.
+
+223
+00:10:39,791 --> 00:10:40,542
+Bolo de carne.
+
+224
+00:10:40,791 --> 00:10:42,460
+Maravilha, adoro bolo de carne.
+
+225
+00:10:42,460 --> 00:10:43,712
+Bem, voc� deveria fazer.
+
+226
+00:10:43,712 --> 00:10:45,549
+Te dou a receita.
+
+227
+00:10:46,216 --> 00:10:47,969
+Voc� n�o fez o suficiente para mim?
+
+228
+00:10:50,598 --> 00:10:52,016
+N�o sou seu cozinheiro.
+
+229
+00:10:55,687 --> 00:10:57,106
+� assim?
+
+230
+00:11:01,321 --> 00:11:03,030
+Como voc� fez o
+bolo de carne?
+
+231
+00:11:03,030 --> 00:11:04,618
+- No forno.
+- Aha!
+
+232
+00:11:04,658 --> 00:11:05,993
+Meu forno.
+
+233
+00:11:06,244 --> 00:11:06,995
+O que voc� quer dizer?
+
+234
+00:11:06,995 --> 00:11:07,913
+O que quero dizer?
+
+235
+00:11:11,585 --> 00:11:15,173
+N�o me coloque no meio.
+Amo voc�s dois.
+
+236
+00:11:16,716 --> 00:11:19,386
+Quero dizer que estou com fome
+e quero bolo de carne.
+
+237
+00:11:19,386 --> 00:11:22,182
+�, bem, eu sou o Alan,
+e quero respeito.
+
+238
+00:11:22,182 --> 00:11:24,812
+Eu acho que tenho mais chance
+de comer bolo de carne.
+
+239
+00:11:24,812 --> 00:11:25,563
+Quer saber, Charlie?
+
+240
+00:11:25,563 --> 00:11:28,525
+Come�o a achar que Jake e eu
+ficamos aqui tempo demais.
+
+241
+00:11:28,525 --> 00:11:30,360
+N�o, de jeito nenhum.
+O Jake ainda � bem vindo.
+
+242
+00:11:30,360 --> 00:11:31,738
+� voc� que tem problemas
+de atitude.
+
+243
+00:11:31,738 --> 00:11:32,613
+Minha atitude?
+
+244
+00:11:32,906 --> 00:11:34,825
+Eu pensei que minha atitude
+n�o valesse nada.
+
+245
+00:11:34,825 --> 00:11:37,079
+Que fosse s�...
+bl� bl� bl�.
+
+246
+00:11:37,454 --> 00:11:39,206
+Bl� bl� bl�, idiota.
+
+247
+00:11:39,832 --> 00:11:42,710
+Ok, ok, � isso.
+� hora de irmos embora.
+
+248
+00:11:42,876 --> 00:11:43,628
+N�s?
+
+249
+00:11:43,670 --> 00:11:44,589
+Sim, n�s.
+
+250
+00:11:44,589 --> 00:11:46,174
+Mas ainda sou bem vindo.
+
+251
+00:11:47,133 --> 00:11:48,343
+Voc� vai aonde eu for.
+
+252
+00:11:48,343 --> 00:11:50,180
+Podemos ter uma casa
+na praia?
+
+253
+00:11:50,180 --> 00:11:53,058
+Claro, se voc� n�o se importar de
+morar embaixo de uma tenda salva vidas.
+
+254
+00:11:53,058 --> 00:11:56,104
+Ei, a gente sobreviveu sem
+sua ajuda at� chegarmos aqui,
+
+255
+00:11:56,147 --> 00:11:57,106
+e faremos de novo.
+
+256
+00:11:57,148 --> 00:11:59,900
+Porque voc� continua dizendo "n�s"?
+
+257
+00:12:01,736 --> 00:12:02,696
+Voc� sabe qual o seu problema?
+
+258
+00:12:02,696 --> 00:12:04,741
+Voc� n�o d� valor para
+as coisas que fa�o por voc�.
+
+259
+00:12:04,784 --> 00:12:07,328
+�, bem, estou cansado de ser
+tratado com algu�m de segunda classe.
+
+260
+00:12:07,328 --> 00:12:09,541
+T� bem. Se quer ir, v�.
+
+261
+00:12:11,626 --> 00:12:13,253
+Talvez eu v� mesmo.
+
+262
+00:12:14,545 --> 00:12:16,174
+Bela maneira de se defender.
+
+263
+00:12:16,174 --> 00:12:16,925
+Obrigado.
+
+264
+00:12:18,176 --> 00:12:19,595
+Ent�o, estamos mesmo
+sem bolo de carne,
+
+265
+00:12:19,595 --> 00:12:22,015
+ou voc� s� disse aquilo
+para deix�-lo irritado?
+
+266
+00:12:25,194 --> 00:12:26,821
+Ah, isso parece interessante.
+
+267
+00:12:26,821 --> 00:12:28,491
+"Dois quartos.
+Precisa de reparos.
+
+268
+00:12:28,491 --> 00:12:30,159
+Vizinhan�a mais ou menos. "
+
+269
+00:12:30,159 --> 00:12:32,370
+O que, o que quer dizer, uh,
+"Vizinhan�a mais ou menos?"
+
+270
+00:12:32,370 --> 00:12:34,832
+Significa que o corretor n�o acreditava
+que algu�m alugaria a casa de lugar num:
+
+271
+00:12:34,832 --> 00:12:36,668
+"Campo de batalha de drogados".
+
+272
+00:12:37,587 --> 00:12:38,795
+Ok, vamos continuar procurando.
+
+273
+00:12:38,795 --> 00:12:42,093
+Alan, n�o quero me meter mas,
+ap�s pens�o e cuidados com o Jake,
+
+274
+00:12:42,093 --> 00:12:45,055
+exatamente quanto
+voc� pode gastar?
+
+275
+00:12:56,945 --> 00:12:57,447
+S�rio?
+
+276
+00:12:58,406 --> 00:12:59,032
+�, s�rio.
+
+277
+00:12:59,032 --> 00:13:01,370
+Querido, meus sapatos
+custam mais que isso.
+
+278
+00:13:01,370 --> 00:13:03,038
+Bem, mam�e, voc�
+tem muitos sapatos.
+
+279
+00:13:03,038 --> 00:13:04,581
+Os que estou usando.
+
+280
+00:13:05,875 --> 00:13:08,086
+Alan, com essa quantia,
+voc� n�o precisa de um Corretor.
+
+281
+00:13:08,086 --> 00:13:10,881
+Voc� precisa de algu�m que venda
+equipamento camping.
+
+282
+00:13:10,881 --> 00:13:13,595
+Bem, bem, ent�o
+� isso que vou fazer.
+
+283
+00:13:13,595 --> 00:13:17,515
+T� bom, mas posso
+sugerir uma alternativa?
+
+284
+00:13:17,515 --> 00:13:19,727
+N�o vou morar com voc�, M�e.
+
+285
+00:13:19,853 --> 00:13:20,813
+Ok.
+
+286
+00:13:22,190 --> 00:13:23,983
+Bem, ent�o tenho uma
+�ltima alternativa.
+
+287
+00:13:23,983 --> 00:13:25,193
+E qual seria?
+
+288
+00:13:25,193 --> 00:13:29,074
+Corra at� a bunda de seu irm�o,
+e beije-a repetidamente.
+
+289
+00:13:29,117 --> 00:13:31,993
+Esque�a.
+Eu n�o fico mais aqui.
+
+290
+00:13:32,996 --> 00:13:35,833
+Ei Red, completa pra mim?
+
+291
+00:13:36,000 --> 00:13:36,666
+Com certeza.
+
+292
+00:13:36,876 --> 00:13:40,799
+Quer que eu aproveite e traga
+uma por��o de calabresa?
+
+293
+00:13:40,799 --> 00:13:42,218
+N�o, estou cheia.
+
+294
+00:13:42,383 --> 00:13:46,306
+Mas j� que estamos discutindo comida,
+porque voc� n�o me morde?
+
+295
+00:13:48,559 --> 00:13:49,642
+Ah, legal!
+
+296
+00:13:49,767 --> 00:13:50,937
+Mais pessoas que eu amo.
+
+297
+00:13:51,771 --> 00:13:52,899
+Bom dia, Charlie.
+
+298
+00:13:52,899 --> 00:13:53,899
+Deixa eu adivinhar.
+
+299
+00:13:54,107 --> 00:13:56,111
+O Alan convidou voc� para morar aqui.
+
+300
+00:13:56,111 --> 00:13:58,321
+N�o, ela me ajudando a me mudar daqui.
+
+301
+00:13:59,074 --> 00:14:00,451
+Este � um dia triste.
+
+302
+00:14:00,867 --> 00:14:02,245
+N�s vamos sentir sua falta
+por aqui, Alan.
+
+303
+00:14:02,245 --> 00:14:03,454
+Bem, obrigado, Berta.
+
+304
+00:14:03,454 --> 00:14:04,999
+Triste, Triste, Triste.
+
+305
+00:14:05,917 --> 00:14:08,837
+Voc� n�o tem nada
+a dizer, Charlie?
+
+306
+00:14:09,671 --> 00:14:10,464
+Sim.
+
+307
+00:14:16,180 --> 00:14:18,934
+Ok, chega de sentimentalismo.
+
+308
+00:14:20,019 --> 00:14:21,395
+A gente devia ir.
+
+309
+00:14:21,395 --> 00:14:24,442
+Apartamentos ao seu alcance ficam
+longe de Malibu.
+
+310
+00:14:24,442 --> 00:14:25,359
+Eu sei, M�e.
+
+311
+00:14:25,401 --> 00:14:27,571
+Muito, muito longe.
+
+312
+00:14:27,614 --> 00:14:28,572
+J� entendi.
+
+313
+00:14:29,699 --> 00:14:31,995
+Talvez voc� devesse
+mijar antes da gente sair.
+
+314
+00:14:34,872 --> 00:14:36,374
+Voc� poderia cuidar
+do Jake?
+
+315
+00:14:36,374 --> 00:14:40,548
+Se ajudar voc� a sair daqui,
+eu posso at� amament�-lo.
+
+316
+00:14:43,927 --> 00:14:46,305
+Sabe,
+sem o Zippy aqui,
+
+317
+00:14:46,305 --> 00:14:49,559
+voc� ter� aquele belo quarto
+de h�spedes vazio.
+
+318
+00:14:49,559 --> 00:14:49,936
+�?
+
+319
+00:14:50,187 --> 00:14:52,981
+Ent�o, que tal
+eu vir morar aqui?
+
+320
+00:14:54,149 --> 00:14:55,276
+Morar aqui?
+
+321
+00:14:56,067 --> 00:14:57,071
+Sou sua empregada.
+
+322
+00:14:57,112 --> 00:14:59,241
+Fica mais f�cil pra voc� e pra mim.
+
+323
+00:14:59,406 --> 00:15:00,700
+Todo mundo ganha.
+
+324
+00:15:00,700 --> 00:15:02,036
+Bem, um...
+
+325
+00:15:02,076 --> 00:15:05,206
+Segura as pontas.
+O caf� fez efeito.
+
+326
+00:15:12,425 --> 00:15:14,927
+Ei, quer ir jogar fliperama?
+
+327
+00:15:14,927 --> 00:15:15,721
+N�o.
+
+328
+00:15:16,180 --> 00:15:17,264
+Quer ir ao cinema?
+
+329
+00:15:17,264 --> 00:15:18,015
+N�o.
+
+330
+00:15:18,391 --> 00:15:20,226
+Qual �, eu te levo
+a um filme censurado.
+
+331
+00:15:20,226 --> 00:15:21,312
+Ver uns peitos.
+
+332
+00:15:22,898 --> 00:15:23,982
+Me deixe em paz.
+
+333
+00:15:24,901 --> 00:15:26,068
+Voc� est� bravo comigo?
+
+334
+00:15:26,068 --> 00:15:27,903
+Qual foi sua primeira pista?
+
+335
+00:15:28,280 --> 00:15:31,910
+Bem, pra ser honesto,
+voc� n�o ligou pros peitos.
+
+336
+00:15:33,871 --> 00:15:35,833
+Porque voc� est� fazendo a gente
+ir embora?
+
+337
+00:15:36,250 --> 00:15:37,627
+Voc� n�o vai embora.
+
+338
+00:15:38,294 --> 00:15:41,924
+Ent�o porque meu pai
+est� procurando apartamento?
+
+339
+00:15:41,924 --> 00:15:44,427
+Porque ele est� tentando me
+ensinar uma li��o.
+
+340
+00:15:44,427 --> 00:15:46,429
+Porque voc� n�o pede pra ele parar?
+
+341
+00:15:46,429 --> 00:15:49,101
+Porque estou tentando
+ensinar uma li��o a ele.
+
+342
+00:15:49,101 --> 00:15:50,478
+Que li��o?
+
+343
+00:15:51,895 --> 00:15:53,315
+Esta casa � minha.
+
+344
+00:15:54,317 --> 00:15:55,651
+E qual a li��o dele?
+
+345
+00:15:56,568 --> 00:15:58,280
+Que ele tamb�m mora aqui.
+
+346
+00:15:59,114 --> 00:16:03,204
+OK, eu sou uma crian�a, mas
+isso parece est�pido at� pra mim.
+
+347
+00:16:05,164 --> 00:16:06,958
+Bem, seja como for,
+
+348
+00:16:07,000 --> 00:16:08,461
+te dou minha palavra,
+
+349
+00:16:08,502 --> 00:16:10,880
+N�o vou deixar voc� ir
+a lugar algum.
+
+350
+00:16:10,880 --> 00:16:11,672
+Promete?
+
+351
+00:16:12,173 --> 00:16:13,007
+Prometo.
+
+352
+00:16:17,638 --> 00:16:19,725
+A oferta dos peitos ainda est� de p�?
+
+353
+00:16:20,186 --> 00:16:21,144
+Vamos l�.
+
+354
+00:16:26,402 --> 00:16:28,738
+Como se pronuncia o �ltimo
+nome dela?
+
+355
+00:16:28,738 --> 00:16:30,656
+Hayek.
+Salma Hayek.
+
+356
+00:16:30,656 --> 00:16:33,578
+Uau. O nome � t�o bonito quanto
+os peitos.
+
+357
+00:16:40,130 --> 00:16:41,338
+O que � isso?
+
+358
+00:16:41,714 --> 00:16:42,715
+Achei um apartamento.
+
+359
+00:16:42,715 --> 00:16:44,802
+Mobiliado, pronto para mudar.
+
+360
+00:16:44,802 --> 00:16:46,471
+Ah, Jake, eu empacotei
+a maioria das suas coisas.
+
+361
+00:16:46,471 --> 00:16:48,808
+Veja se n�o esqueci de nada.
+
+362
+00:16:48,808 --> 00:16:49,975
+Tio Charlie...?
+
+363
+00:16:50,392 --> 00:16:51,812
+Escute o seu pai.
+
+364
+00:16:51,812 --> 00:16:55,275
+- Mas voc� disse...
+- Eu disse pra ouvir seu pai.
+
+365
+00:16:56,818 --> 00:16:58,110
+Sou s� um pe�o.
+
+366
+00:17:01,742 --> 00:17:03,118
+Ent�o, onde �?
+
+367
+00:17:03,118 --> 00:17:03,743
+No Vale.
+
+368
+00:17:03,743 --> 00:17:06,706
+Um ador�vel, hum,
+complexo hisp�nico chamado
+
+369
+00:17:06,915 --> 00:17:08,376
+Valley Hacienda.
+
+370
+00:17:09,168 --> 00:17:10,170
+Bom pra voc�.
+
+371
+00:17:10,296 --> 00:17:11,171
+Dois quartos.
+
+372
+00:17:11,214 --> 00:17:13,383
+Piscina, banheira.
+
+373
+00:17:13,674 --> 00:17:14,593
+Parece �timo.
+
+374
+00:17:14,761 --> 00:17:16,930
+� sim, e estamos de partida.
+
+375
+00:17:18,223 --> 00:17:19,307
+Estou vendo.
+
+376
+00:17:20,393 --> 00:17:21,602
+� melhor assim.
+
+377
+00:17:21,602 --> 00:17:24,065
+Finalmente vou ter um lugar
+que � meu,
+
+378
+00:17:24,065 --> 00:17:25,482
+e voc� pode voltar
+a viver sua
+
+379
+00:17:25,482 --> 00:17:28,695
+vida ego�sta e sem sentido
+que voc� tanto adora.
+
+380
+00:17:29,279 --> 00:17:30,865
+N�o vejo a hora.
+
+381
+00:17:32,118 --> 00:17:34,245
+OK, acho que estou pronto pra ir.
+
+382
+00:17:37,583 --> 00:17:40,295
+Bem, ent�o, hum,
+acho que a gente j� vai.
+
+383
+00:17:42,715 --> 00:17:43,841
+Quer ajuda?
+
+384
+00:17:44,553 --> 00:17:46,094
+N�o, a gente se vira.
+
+385
+00:17:51,184 --> 00:17:54,397
+Est� bem, Valley Hacienda, a� vamos n�s.
+
+386
+00:17:55,649 --> 00:17:58,361
+Jake, diga adeus
+ao seu tio Charlie.
+
+387
+00:17:58,361 --> 00:17:59,363
+Tchau, Tio Charlie.
+
+388
+00:17:59,363 --> 00:18:00,072
+Tchau garoto.
+
+389
+00:18:01,950 --> 00:18:03,744
+Jake, v� para o carro.
+
+390
+00:18:04,369 --> 00:18:05,955
+Escute o seu pai.
+
+391
+00:18:08,292 --> 00:18:11,671
+Eu n�o acho que ningu�m
+esteja aprendendo nada aqui.
+
+392
+00:18:12,464 --> 00:18:15,133
+Bem, obrigado
+pela hospitalidade.
+
+393
+00:18:19,182 --> 00:18:21,812
+Sinto muito termos ficado tanto tempo.
+
+394
+00:18:27,276 --> 00:18:27,777
+Alan...
+
+395
+00:18:28,026 --> 00:18:31,156
+N�o quero ir.
+Por favor n�o me fa�a ir.
+
+396
+00:18:31,156 --> 00:18:33,742
+Adoro aqui.
+Adoro tanto!
+
+397
+00:18:34,494 --> 00:18:35,998
+Achei que voc� tinha
+achado um lugar.
+
+398
+00:18:35,998 --> 00:18:37,374
+Estava blefando.
+� horr�vel!
+
+399
+00:18:37,374 --> 00:18:38,500
+� tudo horr�vel.
+
+400
+00:18:39,501 --> 00:18:41,713
+Voc� quer que eu beije sua bunda?
+Porque vou literalmente beijar sua bunda!
+
+401
+00:18:41,713 --> 00:18:43,216
+Vamos l�. Vire!
+
+402
+00:18:43,924 --> 00:18:45,676
+Alan, para com isso.
+
+403
+00:18:45,926 --> 00:18:47,387
+� s�rio. � s�rio.
+Voc� � o chefe.
+
+404
+00:18:47,387 --> 00:18:50,559
+Sabe, eu prefiro ser um cidad�o
+de segunda classe aqui no para�so
+
+405
+00:18:50,559 --> 00:18:54,564
+a ser um rei de uma bocada que fede
+perto do aeroporto Burbank.
+
+406
+00:18:54,564 --> 00:18:56,942
+Alan, Alan,
+acalme-se, acalme-se.
+
+407
+00:18:57,276 --> 00:18:59,444
+Se voc� quer ficar,
+voc� pode ficar.
+
+408
+00:18:59,444 --> 00:19:01,407
+Obrigado, obrigado, obrigado.
+
+409
+00:19:01,407 --> 00:19:04,286
+Obrigado. Oh, Charlie,
+voc� n�o tem id�ia de como foi horr�vel.
+
+410
+00:19:04,286 --> 00:19:06,704
+Quero dizer, n�o posso levar
+uma mulher em um lugar daqueles.
+
+411
+00:19:06,704 --> 00:19:10,169
+O �nico jeito de ter sexo
+seria ser molestado por um rato.
+
+412
+00:19:10,961 --> 00:19:12,590
+Componha-se!
+
+413
+00:19:13,298 --> 00:19:15,217
+V� pegar o Jake,
+e vamos todos jantar.
+
+414
+00:19:16,719 --> 00:19:18,263
+E obrigado de novo.
+
+415
+00:19:18,263 --> 00:19:19,348
+De nada.
+
+416
+00:19:28,277 --> 00:19:29,571
+Ei, ei, Charlie?
+
+417
+00:19:29,821 --> 00:19:30,196
+O qu�?
+
+418
+00:19:30,530 --> 00:19:33,576
+Antes que eu
+ficasse de joelhos...
+
+419
+00:19:34,494 --> 00:19:36,789
+voc� ia dizer alguma coisa?
+
+420
+00:19:36,955 --> 00:19:38,249
+Acho que n�o.
+
+421
+00:19:38,417 --> 00:19:40,169
+Antes que eu come�asse a chorar,
+
+422
+00:19:42,505 --> 00:19:44,299
+voc� ia pedir pra eu ficar.
+
+423
+00:19:44,299 --> 00:19:45,300
+N�o, n�o ia.
+
+424
+00:19:47,554 --> 00:19:49,514
+Voc� n�o engana ningu�m.
+
+425
+00:19:50,056 --> 00:19:52,185
+Voc� ia sentir minha falta se eu fosse.
+
+426
+00:19:52,393 --> 00:19:54,521
+Apesar de tudo que voc� disse,
+
+427
+00:19:54,521 --> 00:19:55,565
+somos irm�os,
+
+428
+00:19:55,690 --> 00:20:00,322
+temos um la�o mais forte
+e significante que qualquer...
+
+429
+00:20:06,164 --> 00:20:07,749
+Ele cedeu,
+n�o foi?
+
+430
+00:20:08,165 --> 00:20:10,668
+Minha bunda est� coberta
+de marcas de l�bios.
+
+431
+00:20:11,422 --> 00:20:12,213
+Maldi��o.
+
+432
+00:20:12,505 --> 00:20:13,714
+Bem, de qualquer maneira.
+
+433
+00:20:14,675 --> 00:20:17,178
+Acho que voc� quer ir pra casa
+checar como o Philip est�.
+
+434
+00:20:17,178 --> 00:20:18,053
+Quem?
+
+435
+00:20:20,140 --> 00:20:21,142
+Philip?
+
+436
+00:20:21,183 --> 00:20:22,058
+Seu irm�o?
+
+437
+00:20:22,142 --> 00:20:23,228
+Desintoxicando?
+
+438
+00:20:23,519 --> 00:20:24,606
+Ah, sim, claro.
+
+439
+00:20:25,356 --> 00:20:26,149
+Philip.
+
+440
+00:20:26,733 --> 00:20:27,526
+Meu irm�o.
+
+441
+00:20:35,995 --> 00:20:37,373
+Isso n�o � t�o ruim.
+
+442
+00:20:44,759 --> 00:20:47,136
+Parece razoavelmente seguro.
+
+443
+00:20:47,304 --> 00:20:48,180
+Ah, sim.
+
+444
+00:20:48,220 --> 00:20:50,641
+Tenho certeza que os traficantes
+de Valley Hacienda organizaram
+
+445
+00:20:50,641 --> 00:20:52,936
+algum tipo de vigia
+no bairro.
+
+446
+00:20:53,186 --> 00:20:54,354
+A gente podia fazer isso dar certo.
+
+447
+00:20:54,354 --> 00:20:57,274
+Eu acho que
+tem bastante coisa aqui pra fazer.
+
+448
+00:21:07,497 --> 00:21:10,420
+N�o sou muito f� do tapete laranja,
+
+449
+00:21:10,420 --> 00:21:13,505
+mas parte da gra�a de um lugar novo
+� consert�-lo, deixar com a sua cara.
+
+450
+00:21:13,505 --> 00:21:16,468
+Sabe, escolher uma nova cor...
+
+451
+00:21:23,562 --> 00:21:27,901
+Claro, tirar as manchas de sangue
+da banheira.
+
+452
+00:21:27,901 --> 00:21:31,280
+Ou voc� poderia correr pra casa e
+beijar a bunda do seu irm�o.
+
+453
+00:21:31,280 --> 00:21:34,201
+Voc� n�o poderia ter dito
+simplesmente "eu n�o disse".
+
